@@ -18,4 +18,5 @@ section {
     padding-bottom: 55px;
     padding-top: 55px;
     display: flex;
+    justify-content: center;
 }
