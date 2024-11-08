@@ -23,7 +23,11 @@ section {
 }
 
 .texto{
-    margin: 10%;
+    margin-right: 10%;
+}
+
+.texto{
+    margin-left: 10%;
 }
 
 h1 {
