@@ -44,4 +44,5 @@ img {
 
 .videos{
     display: flex;
+    overflow-x: auto;
 }
