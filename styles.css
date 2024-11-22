@@ -47,3 +47,11 @@ img {
     overflow-x: auto;
     gap: 20px;
 }
+
+.videos img{
+    opacity: 0.5;
+}
+
+.videos img:hover {
+    opacity: 1.0;
+}
